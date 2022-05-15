@@ -1,0 +1,2 @@
+numero = float(input( 'Digite um número em metros: '))
+print(f'{numero*0.001:.1f}Kilometros\n{numero*0.01:.1f}Hectometros\n{numero*0.1:.1f}Decametros\n{numero*10:.1f}Decimetros\n{numero*100}Centímetros\n{numero*1000}Milimetros')

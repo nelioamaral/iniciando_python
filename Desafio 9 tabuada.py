@@ -1,0 +1,5 @@
+numero = int(input('Para obter a taboada, digite o número que deseja: '))
+print('-'*12)
+print(f'{1:2}x{numero}={numero*1:2}\n{2:2}x{numero}={numero*2:2}\n{3:2}x{numero}={numero*3:2}\n{4:2}x{numero}={numero*4:2}\n{5:2}x{numero}={numero*5:2}')
+print(f'{6:2}x{numero}={numero*6:2}\n{7:2}x{numero}={numero*7:2}\n{8:2}x{numero}={numero*8:2}\n{9:2}x{numero}={numero*9:2}\n{10:2}x{numero}={numero*10:2}')
+print('-'*12)
